@@ -8,7 +8,7 @@ import os
 import bz2
 
 
-# path to save files
+# path to save the files
 PATH='Dumps/'
 
 
