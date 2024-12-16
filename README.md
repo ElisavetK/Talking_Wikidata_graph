@@ -18,7 +18,7 @@ The file **items_cleaned.csv.zip** includes the dataset of discussions found in 
 This folder includes code for the network analysis.
 * **graph_analysis.ipynb**: This notebook consists of the network analysis code.
 * **statistics_data.ipynb**: This notebook includes statistical analysis and figures for the editors' features.
-* **process_editor_features.ipynb**: This notebook presents the code for editors' features.
+tors' features.
 
 
 ## **ML model**
