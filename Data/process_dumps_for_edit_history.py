@@ -47,13 +47,10 @@ def parse_dump(filename):
 
 #================= RUN ======================
 
-
-
-file_read='/mnt/data/elisavetk/A1_PROCESS_DUMPS_END_2022/download_dumps/Dumps_20230301_4/'
-file_save='/mnt/data/elisavetk/A1_PROCESS_DUMPS_END_2022/process_dumps/TXT_20230301_edit_history/TXT_1443_1626/'
-start_file=1443
-end_file=1627
-
+file_read='Dumps/'
+file_save='Discussion_files/'
+start_file=0
+end_file=1
 
 
 if not os.path.exists(file_save):
