@@ -18,7 +18,7 @@ if not os.path.exists(PATH):
 
 
 #read the urls form the txt file   
-file1 = open('dump_urls.txt', 'r')
+file1 = open('wikidata_dumps_20230301.txt', 'r')
 Lines = file1.readlines()
 # print(Lines[1443])
 
