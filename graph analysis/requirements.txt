@@ -1,0 +1,11 @@
+pandas
+numpy
+networkx
+graph_measurments
+random
+matplotlib
+plotly
+scipy
+scikit_posthocs
+collections
+seaborn
