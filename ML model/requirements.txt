@@ -1,0 +1,10 @@
+openai
+pandas
+numpy
+networks
+pykeen
+ast
+tensorflow
+sklearn
+collections
+keras
