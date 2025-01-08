@@ -1,7 +1,7 @@
 xml.etree
 bz2
 pandas
-lson
+json
 codecs
 csv
 os
