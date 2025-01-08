@@ -1,7 +1,7 @@
 openai
 pandas
 numpy
-networks
+networkx
 pykeen
 ast
 tensorflow
