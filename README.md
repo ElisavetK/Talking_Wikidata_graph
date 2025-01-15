@@ -18,7 +18,7 @@ This folder includes code for the network analysis.
 tors' features.
 
 ## **Dataset**
-The file **items_cleaned.csv.zip** includes the dataset of discussions found in item talk pages.
+The file **items_cleaned.csv.zip** includes the dataset of discussions found in item talk pages. Dataset for the MLmodel analysis is also included here https://doi.org/10.5281/zenodo.14500997
 
 ## **ML model**
 The file **framework_analysis.ipynb** includes the code for the text and graph embeddings, and the neural network model.
